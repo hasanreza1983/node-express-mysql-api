@@ -1,0 +1,22 @@
+{
+  "name": "node-rest-mysql",
+  "version": "1.0.0",
+  "description": "Boilerplate for Node, REST, and MySQL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.4",
+    "dotenv": "^4.0.0",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mysql": "^2.11.1",
+    "nodemon": "^1.12.1"
+  }
+}
